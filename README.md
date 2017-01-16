@@ -7,7 +7,10 @@ testqwe
 testqwe
 testqwe
 testqwe
->>>>>>> develop
+test
+test
+test
+test
 test
 test
 test
